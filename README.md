@@ -48,9 +48,10 @@ Meu foco principal está na arquitetura de sistemas robustos, inteligência de p
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hianny&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=hianny&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Métricas de Produtividade" />
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hianny&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hianny&theme=github-dark-v2&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
 </p>
 
 ---
