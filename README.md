@@ -9,7 +9,7 @@
 
 ## Sobre Minha Atuação
 
-Atuo profissionalmente nesta organização como **Desenvolvedor de Software e Automação**, aplicando conceitos avançados de Engenharia de Software no desenvolvimento de soluções corporativas de alta eficiência.
+Atuo profissionalmente na BOM FUTURO como **Desenvolvedor de Software e Automação**, aplicando conceitos de Engenharia de Software no desenvolvimento de automaçoes corporativas de alta eficiência.
 
 Meu foco principal está na arquitetura de sistemas robustos, inteligência de processos e automações de ponta a ponta:
 
@@ -48,6 +48,7 @@ Meu foco principal está na arquitetura de sistemas robustos, inteligência de p
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hianny&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=hianny&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Métricas de Produtividade" />
   <br><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hianny&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
 </p>
